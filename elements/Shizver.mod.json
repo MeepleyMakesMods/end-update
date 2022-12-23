@@ -1,0 +1,33 @@
+{
+  "_fv": 34,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "ARMORER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.MANGROVE_PLANKS"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": "Blocks.BLACKSTONE_WALL"
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "Blocks.BIRCH_WOOD"
+            },
+            "countOffer": 1,
+            "level": 2,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

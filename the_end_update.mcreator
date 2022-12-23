@@ -1,5 +1,14 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Shizver",
+      "type": "villagertrade",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shizver"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
